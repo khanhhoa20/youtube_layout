@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+a{
+  text-decoration: none;
+  color: inherit
+}
+.active div{
+  /* background-color: '#e5e5e5';
+   font-weight: '500'; */
+   background: #d5d5d5;
+   font-weight: 500;
+}
+
+.active div:hover{
+  /* background-color: '#e5e5e5';
+   font-weight: '500'; */
+   background: #bfbfbf;
+   font-weight: 500;
+}
